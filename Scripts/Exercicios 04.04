@@ -1,6 +1,5 @@
 # EXERCICIO -04/04/2026
 
-
 # 1 - Criar script que confira para que pasta o projeto está apontando e,
 # caso a pasta não exista, crie a pasta; e caso, a pasta já exista configure para a pasta de trabalho correta.
 
