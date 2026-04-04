@@ -1,7 +1,0 @@
-cho "# Vigisaude-Fiocruz" >> README.md 
-git init 
-git add README.md 
-git commit -m "primeiro commit" 
-git branch -M main 
-git remote add origin https://github.com/toaraujo31/Vigisaude-Fiocruz.git
- git push -u origin main
